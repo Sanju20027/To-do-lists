@@ -1,0 +1,20 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "open tours.html",
+          /* "url": "http://localhost:8080",*/
+            "webRoot": "${workspaceFolder}",
+           // "file":"C:\\Users\\Piyusha\\OneDrive\\WebDev\\Project.html"
+          //"file":"C:\\Users\\Piyusha\\Downloads\\Catalog-Z Free Website Template - Free-CSS.com\\templatemo_556_catalog_z\\index.html"
+            "file":"C:\\Users\\Piyusha\\OneDrive\\WebDev\\LEARNHUB Website\\index.html"
+        //"file":"D:\\web\\Tours.html"
+        }
+    ]
+        
+    }
